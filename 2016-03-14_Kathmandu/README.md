@@ -5,5 +5,7 @@
 - <a href="https://youtu.be/y8BxuxsT954">Video data by GARMIN VIRB</a>
 
 # Postprocess
-- under constructions
+## Uploading movie file from Kathmandu to YouTube
+- Uploading time: about 60min from Hotel's Wi-Fi
+- RAW data file size: 119MB as mp4 file format
 
